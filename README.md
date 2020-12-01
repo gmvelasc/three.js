@@ -1,2 +1,2 @@
 # three.js
-Get familiar with Three.js
+Getting familiar with Three.js
